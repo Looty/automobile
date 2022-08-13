@@ -1,0 +1,27 @@
+company:
+  tesla:
+  - name: Model S
+    spec:
+      price: 37,490$
+      seats: 5
+      type: manual
+      topSpeed: 140mph
+  - name: Model X
+    spec:
+      price: 89,990$
+      seats: 7
+      type: automatic
+      topSpeed: 155mph
+  bmw:
+  - name: M3 F80
+    spec:
+      price: 59,000$
+      seats: 2
+      type: manual
+      topSpeed: 130mph
+  - name: M3 e30 EVO3
+    spec:
+      price: 67,000$
+      seats: 4
+      type: automatic
+      topSpeed: 125mph
