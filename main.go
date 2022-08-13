@@ -4,7 +4,7 @@ Copyright © 2022 NAME HERE <EMAIL ADDRESS>
 */
 package main
 
-import "go-cli-crud/cmd"
+import "automobile/cmd"
 
 func main() {
 	cmd.Execute()

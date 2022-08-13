@@ -7,8 +7,8 @@ package cmd
 import (
 	"fmt"
 
+	"automobile/internal"
 	"github.com/spf13/cobra"
-	"go-cli-crud/internal"
 )
 
 // vehicleCmd represents the vehicle command

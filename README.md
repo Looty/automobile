@@ -1,2 +1,2 @@
-# go-cli-crud
-A Go CLI example for CRUD operations
+# automobile
+A Go automobile CLI example
