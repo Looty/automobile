@@ -1,4 +1,4 @@
-module go-cli-crud
+module automobile
 
 go 1.18
 
