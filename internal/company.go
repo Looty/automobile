@@ -1,5 +1,5 @@
 package internal
 
 type Company struct {
-	Cars []Vehicle
+	Vehicle map[string]Vehicle
 }
